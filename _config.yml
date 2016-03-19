@@ -1,2 +1,31 @@
 permalink: /notes/:year/:month/:day/:title
 markdown: kramdown
+name: Sami Moustachir
+bio: 'Data lover, mobile friendly 📱 and ex-associate
+@Techstars London. Part time student, part time hacker.
+Eating knowledge one bit at a time 🍎'
+picture: "assets/images/sami.jpg"
+
+url: http://sammous.github.io
+permalink: /:title/
+
+analytics:
+  provider : google
+  google :
+      tracking_id : 'UA-73433340-1'
+twitter: "@sa_mous"
+linkedin: "https://uk.linkedin.com/in/samous"
+github: sammous
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
+
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+jekyll-mentions:
+    base_url: https://github.com
