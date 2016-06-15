@@ -1,0 +1,76 @@
+<!-- ---
+layout: default
+title: keybase.txt
+home: passive
+cv: active
+description: Keybase for Sami Moustachir
+--- -->
+
+==================================================================
+https://keybase.io/sammous
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://samimoustachir.me
+  * I am sammous (https://keybase.io/sammous) on keybase.
+  * I have a public key with fingerprint 1965 B9DC 511F 091B AA04  F9AA 73D2 13C6 8927 E5CA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014ab44a01d9a8d2905233b89622e0c490f41bc77a16c3e8833483f4acb807c0b40a",
+            "fingerprint": "1965b9dc511f091baa04f9aa73d213c68927e5ca",
+            "host": "keybase.io",
+            "key_id": "73d213c68927e5ca",
+            "kid": "01014ab44a01d9a8d2905233b89622e0c490f41bc77a16c3e8833483f4acb807c0b40a",
+            "uid": "a4f7b1a32ea9cf83fd2cdd222e5dcb19",
+            "username": "sammous"
+        },
+        "service": {
+            "hostname": "samimoustachir.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1465978110,
+    "expire_in": 157680000,
+    "prev": "273d7c6dc0336ae1905a6d6831ed75bfab02e0dd9fe0457fcbc506b123079288",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMImAnicrZJbSFRBGMd3MxNto8gKIUo7VHZZdObczz4IJZVIRCZRhrHN7ejJ3T3r
+7lnXbbN6CMsgIoWIojtUSgaBaSBFRVeCLEIoqZcIwUJMsxdLaY4UvfTYvAzzze/7
+z//7M4/mZHhyvCecdxm9h3sKvC8enEl4diDfVFrANk0JgbRQx6Y3FqIs7gTrLCoE
+BAABlBGWZQQgNZBORQMooiRh3VBFkQEiG8CUISaahqBKJKbrkiTrkikjgnWgEYBl
+gAS/YFqRGhaLxqyIw2WhoSrYoESB0AQGxAgB2TQQ0iQqQomouiFqTCFuY60ddzu4
+OYzirMiyeY0fgtP2/sH/Z9+JaTkkmxqGSBIZMojJMSoSSkWupFCCoeGCcRaLoDDj
+dByFw3YiLjT5BV5ssAhzc3UH+QtYLuEgUmvFinjNL0RjtmMTO8Svax0nGnC7nVTU
+xZMMB38LBbEVoTxK3tDAYnHLjggByEniWK4ylFXF0HQIgV9gjVErxoKWSyiaqgO+
+3GdYA5cUeXIaUSkBkqQiBnk6SKWqLkFGNQWbCAOeEqWGyYCsaCbBRAEqhqIENEPU
+dcEdrT5iCwGD20Q17lBWTQQ5iRgTmh7er57p8eZ4ZmXOcL+YJyd73p+Ph5NZU0Vg
+oXx7/bhz6cl4e2fmvk/LC1+HO182LTj3oerykidlXU9b6t/kPYwwb/n31oqhuRPp
+4dK+wYZjqw9IZt6t0Xs/njZfNTYfp+9bBvduz01t+dpx9GRjWmzpLsk9vys8sepm
+edvsZxuaE0Nz1t4dXnO2uNj/dvFIadW2yZHqRP+R5Rv39O1M9j06OrauZ4+v68bK
+rR/jB3NPb1k7Wbasd+mivAvbfctaA76Bk9/yr4cqHxenj+Nsv+9n9BX6sXtV4fty
+3/MK9dDnzM72Su/80dDFivFribFTqf3B/Nrewpb+L6nPVa0lK3YPXszqHWhvSyaS
+lzvUwIWu1J2mK2PKytnnCzI2df8CrJI/ig==
+=kO1d
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sammous
+
+==================================================================
