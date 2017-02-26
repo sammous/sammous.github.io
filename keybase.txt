@@ -12,7 +12,7 @@ https://keybase.io/sammous
 
 I hereby claim:
 
-  * I am an admin of http://samimoustachir.me
+  * I am an admin of http://samimoustachir.com
   * I am sammous (https://keybase.io/sammous) on keybase.
   * I have a public key with fingerprint 1965 B9DC 511F 091B AA04  F9AA 73D2 13C6 8927 E5CA
 
@@ -30,7 +30,7 @@ To do so, I am signing this object:
             "username": "sammous"
         },
         "service": {
-            "hostname": "samimoustachir.me",
+            "hostname": "samimoustachir.com",
             "protocol": "http:"
         },
         "type": "web_service_binding",

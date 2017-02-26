@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Notes from Sami Moustachir</title>
- <link href="http://samimoustachir.me/notes/atom.xml" rel="self"/>
- <link href="http://samimoustachir.me/notes/"/>
+ <link href="http://samimoustachir.com/notes/atom.xml" rel="self"/>
+ <link href="http://samimoustachir.com/notes/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://samimoustachir.me/notes/</id>
+ <id>http://samimoustachir.com/notes/</id>
  <author>
    <name>Sami Moustachir</name>
    <email>sami.moustachir@mines-nancy.org</email>
@@ -17,9 +17,9 @@ layout: feed
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://samimoustachir.me{{ post.url }}"/>
+   <link href="http://samimoustachir.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://samimoustachir.me/notes{{ post.id }}</id>
+   <id>http://samimoustachir.com/notes{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
