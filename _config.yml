@@ -6,15 +6,17 @@ bio: 'Data lover, mobile friendly 📱 and ex-associate
 Eating knowledge one bit at a time 🍎.
 Currently Data Scientist Intern @Mention'
 picture: "assets/images/sami.jpg"
+description: 'Personal website of Sami Moustachir'
+title: "Sami's website"
 
-url: http://sammous.github.io
+url: http://samimoustachir.com
 permalink: /:title/
 
 analytics:
   provider : google
   google :
       tracking_id : 'UA-73433340-1'
-twitter: "@sa_mous"
+twitter: sa_mous
 linkedin: "https://uk.linkedin.com/in/samous"
 github: sammous
 
