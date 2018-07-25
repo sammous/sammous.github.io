@@ -18,3 +18,9 @@ All content on this site is distributed under a [Creative Commons Attribution 3.
 * Edit _includes/analytics.html and either
   * Replace the Google Analytics tracking code with your own, or
   * If you don't use Google Analytics, comment the block of code out entirely.
+
+## Extract Resume
+
+```bash
+pandoc  -V geometry:margin=.5in index.html -f html -t latex -s -o resume.pdf
+```
