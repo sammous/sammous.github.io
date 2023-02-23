@@ -9,7 +9,7 @@ picture: "assets/images/sami.jpg"
 description: 'Personal website of Sami Moustachir'
 title: "Sami's website"
 
-url: http://samimoustachir.com
+url: http://sammous.dev
 permalink: /:title/
 
 analytics:
